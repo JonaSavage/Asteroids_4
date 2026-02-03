@@ -8,6 +8,7 @@ import pygame
 
 def main():
     print(f"Starting Asteroids with pygame version: {pygame.version.ver}")
+    print("This is to test if I have to use my PAT again.")
 
 
 if __name__ == "__main__":
