@@ -11,6 +11,7 @@ def main():
     print("Starting Asteroids...")
     print(f"Screen width: {SCREEN_WIDTH}")
     print(f"Screen Height: {SCREEN_HEIGHT}")
+    print()
 
 
 if __name__ == "__main__":
